@@ -1,0 +1,11 @@
+<? xml version = " 1.0 " encoding = " UTF-8 " ?>
+< тип модуля  = " JAVA_MODULE " версія = " 4 " > 
+  < ім'я компонента  = " NewModuleRootManager " inherit-compiler-output = " true " > 
+    < exclude-output />
+    < content  url = " file://$MODULE_DIR$ " >
+      < sourceFolder  url = " file://$MODULE_DIR$/src "  isTestSource = " false " />
+    </ content >
+    < typeEntry  type = " inheritedJdk " />
+    < orderEntry  type = " sourceFolder "  forTests = " false " />
+  </ компонент >
+</ модуль >
